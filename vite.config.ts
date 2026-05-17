@@ -24,7 +24,7 @@ export default defineConfig({
         scope: "/",
         icons: [
           {
-            src: "/poker-icon.png",
+            src: "/poker-icon1.png",
             sizes: "512x512",
             type: "image/png",
             purpose: "any maskable",
